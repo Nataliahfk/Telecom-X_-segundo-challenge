@@ -1,18 +1,21 @@
-# Telecom-X_-segundo-challenge
-Telecom X - Análisis de Evasión de Clientes
+# 📊 Análisis de Evasión de Clientes (Customer Churn Analysis)
 
-Has sido contratado como asistente de análisis de datos en Telecom X y formarás parte del proyecto "Churn de Clientes". La empresa enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes.
+Este proyecto tiene como objetivo identificar patrones de comportamiento en los clientes que han abandonado un servicio de telecomunicaciones, a partir del análisis de datos históricos. Se aplican técnicas de limpieza, exploración, visualización y análisis estadístico para entender los factores que influyen en la evasión (churn).
 
-Tu desafío será recopilar, procesar y analizar los datos, utilizando Python y sus principales bibliotecas para extraer información valiosa. A partir de tu análisis, el equipo de Data Science podrá avanzar en modelos predictivos y desarrollar estrategias para reducir la evasión.
+##🔍 Objetivos del Proyecto
 
-¿Qué vas a practicar?
+Detectar inconsistencias y limpiar los datos.
+Analizar la distribución de clientes que abandonan vs. los que permanecen.
+Identificar correlaciones entre variables.
+Obtener insights clave sobre los factores asociados al abandono.
+Sugerir acciones estratégicas para mejorar la retención de clientes.
 
-✅ Importar y manipular datos desde una API de manera eficiente.
+🛠️ Tecnologías Utilizadas
+Python 3.x
+Jupyter Notebook
+Pandas
+NumPy
+Seaborn
+Matplotlib
+Plotly
 
-✅ Aplicar los conceptos de ETL (Extracción, Transformación y Carga) en la preparación de los datos.
-
-✅ Crear visualizaciones estratégicas para identificar patrones y tendencias.
-
-✅ Realizar un Análisis Exploratorio de Datos (EDA) y generar un informe con insights relevantes.
-
-¡Ahora es tu turno! 🚀 Usa tus conocimientos para transformar datos en información estratégica y ayudar a Telecom X a retener más clientes.
