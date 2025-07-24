@@ -2,7 +2,7 @@
 
 Este proyecto tiene como objetivo identificar patrones de comportamiento en los clientes que han abandonado un servicio de telecomunicaciones, a partir del análisis de datos históricos. Se aplican técnicas de limpieza, exploración, visualización y análisis estadístico para entender los factores que influyen en la evasión (churn).
 
-##🔍 Objetivos del Proyecto
+🔍 Objetivos del Proyecto
 
 Detectar inconsistencias y limpiar los datos.
 Analizar la distribución de clientes que abandonan vs. los que permanecen.
