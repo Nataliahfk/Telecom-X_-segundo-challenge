@@ -1,4 +1,5 @@
-Diccionario de datos
+- Diccionario de datos
+
 customerID: número de identificación único de cada cliente
 Churn: si el cliente dejó o no la empresa
 gender: género (masculino y femenino)
