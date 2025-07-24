@@ -4,18 +4,17 @@ Este proyecto tiene como objetivo identificar patrones de comportamiento en los 
 
 🔍 Objetivos del Proyecto
 
-Detectar inconsistencias y limpiar los datos.
-Analizar la distribución de clientes que abandonan vs. los que permanecen.
-Identificar correlaciones entre variables.
-Obtener insights clave sobre los factores asociados al abandono.
-Sugerir acciones estratégicas para mejorar la retención de clientes.
+- Detectar inconsistencias y limpiar los datos.
+- Analizar la distribución de clientes que abandonan vs. los que permanecen.
+- Identificar correlaciones entre variables.
+- Obtener insights clave sobre los factores asociados al abandono.
+- Sugerir acciones estratégicas para mejorar la retención de clientes.
 
 🛠️ Tecnologías Utilizadas
-Python 3.x
-Jupyter Notebook
-Pandas
-NumPy
-Seaborn
-Matplotlib
-Plotly
+- Python
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+- Plotly
 
